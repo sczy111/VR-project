@@ -32,6 +32,7 @@ Despite the hardware limitations, the scene ran **relatively smoothly** during t
 ## LSL Output
 
 To monitor LSL (Lab Streaming Layer) output, run the following command in Windows Command Prompt or use your own methods:
+
 `python -m pylsl.examples.ReceiveStringMarkers`
 
 ### Marker Values:
