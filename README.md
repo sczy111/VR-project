@@ -12,7 +12,7 @@
 - **Rating Selection**:
   - Use the **left-hand joystick** to choose a rating (1–5).
   - Press the **left-hand trigger** to confirm your selection.
-  - ⚠️ _Note_: In rare cases during testing, the left-hand joystick may freeze. If this happens, move your **right hand** towards the rating menu and there will be a ray allowing you to point at the rating and press the **right-hand trigger** to select it.
+  - ⚠️ _Note_: In rare cases during testing, the left-hand joystick may freeze. If this happens, move your **right hand** towards the rating menu and there will be a ray allowing you to point at the rating then press the **right-hand trigger** to select it.
 
 ## 💻 System Specs & Performance Notes
 
