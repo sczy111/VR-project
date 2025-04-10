@@ -32,8 +32,7 @@ Despite the hardware limitations, the scene ran **relatively smoothly** during t
 ## LSL Output
 
 To monitor LSL (Lab Streaming Layer) output, run the following command in Windows Command Prompt or use your own methods:
-
-**python -m pylsl.examples.ReceiveStringMarkers**
+`python -m pylsl.examples.ReceiveStringMarkers`
 
 ### Marker Values:
 
@@ -41,7 +40,7 @@ To monitor LSL (Lab Streaming Layer) output, run the following command in Window
 - **11**: Weird scene (`PostProcessingVolume.Unbound = True`)
 - **1–5**: Rating selected by the user
 
-After going through **200 target points**, a CSV file will be automatically exported to: C:/Users/Public/
+After going through **200 target points**, a CSV file will be automatically exported to: `C:/Users/Public/`
 
 The file includes:
 
